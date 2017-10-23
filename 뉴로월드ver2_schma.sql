@@ -1,4 +1,4 @@
--- evet_log
+-- evet_log2222
 CREATE TABLE evet_log (
 	dt      DATETIME    NULL COMMENT 'dt', -- dt
 	func_nm VARCHAR(50) NULL COMMENT 'func_nm' -- func_nm
